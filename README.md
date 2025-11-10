@@ -34,7 +34,7 @@ Outputs:
 - Scaling parameters → `scaling/minmax.csv`
 
 Note: 
-	Labels_example.csv and spectra_example.csv are only present as example files and should not be used for actual training of the model. They contain only 500 spectra leading estimations of weights and biases. 
+	Labels_example.csv and spectra_example.csv are only present as example files and should not be used for actual training of the model. They contain only 500 spectra leading to bad estimations of weights and biases. 
 
 ### 2️⃣ Fitting a Single Star
 Using the trained model, LRPayne fits the observed spectrum of a single target star and compares it to literature parameters.
